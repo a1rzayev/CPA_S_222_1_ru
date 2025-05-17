@@ -1,0 +1,120 @@
+
+Directories---------------------------------------
+	.git
+	Illustrations
+	hooks
+	info
+	logs
+	objects
+	refs
+	refs
+	heads
+	remotes
+	origin
+	00
+	04
+	0d
+	1d
+	1e
+	21
+	45
+	68
+	79
+	8b
+	8f
+	a6
+	ad
+	b2
+	bd
+	bf
+	c7
+	c9
+	cb
+	e7
+	e8
+	ee
+	f7
+	fe
+	info
+	pack
+	heads
+	remotes
+	tags
+	origin
+
+Files---------------------------------------------
+	file_system_test.txt
+	Lesson1(знакомство с debugger).py
+	Lesson2(функции).py
+	Lesson2.1(орёл и решка).py
+	Lesson3(namespace & scope).py
+	Lesson3.1(камень, ножницы, бумага).py
+	Lesson4(функции с произвольным количеством аргументов).py
+	Lesson4.1(правда или действие).py
+	Lesson5(oперации со строка).py
+	Lesson5.1(боевые роботы).py
+	Lesson6(файловая система).py
+	Lesson6.1(камуфляж и шпионаж).py
+	Python подсказки.txt
+	README.md
+	skiper.txt
+	COMMIT_EDITMSG
+	config
+	description
+	HEAD
+	index
+	packed-refs
+	applypatch-msg.sample
+	commit-msg.sample
+	fsmonitor-watchman.sample
+	post-update.sample
+	pre-applypatch.sample
+	pre-commit.sample
+	pre-merge-commit.sample
+	pre-push.sample
+	pre-rebase.sample
+	pre-receive.sample
+	prepare-commit-msg.sample
+	push-to-checkout.sample
+	sendemail-validate.sample
+	update.sample
+	exclude
+	HEAD
+	master
+	HEAD
+	master
+	ef292c3c5145779b010d13b918d377be62999a
+	c135179df0a487dd5e4a7c34dc5afdf91a2409
+	f8cef2a9b55fefa354ef7fa148f1c426421845
+	091abf1e74ed16e980b08782bc1d3de40b8fa8
+	ec775b1445d01d8545d6a7d823d44b4a10ab44
+	302a11b58d52c5881f8c43dd4d6ed55d3a51a0
+	e6344fd592b690f1d52673c1ba44ec572ea0c4
+	fc2b328ce25492cd33cf7015946ce44a846b13
+	09505b7968556f4fa12d72efb4bb1f85359da9
+	66c3cb354425b321c8fe5c1e6ff7d59752970f
+	6cc5b8cbe4f623fd6ec89f5907d649c81cef49
+	c9935eca73738c9c47908896d0ac3aa552b424
+	cfb3ad2162ce88d6686ab9845df11fdc21452c
+	ed57717d9fd0b5fea7ff399694f5534d22ba19
+	cc442698d0de0d8c7f283caa4ffbf1b78f4f4f
+	31a31938ee9a6ae789c8abfd9022f4b23599f6
+	fdb71f4fa1e3ae5f695ae8d8399cbe7c9851b4
+	0a97f4c858fedc58f31bd7c44361c7bc819488
+	c0b4eee36523b703862e0c42ddab5ba0e8e9aa
+	5cec99ba1fdedcdc939efd635eef8e6e254d31
+	461c0c9cb471cc36d6c96fd60bd7a9b09c7168
+	c53d9cad0e2987ddca2cdeed49726ccc8a1818
+	662bc7b14c28aa171f2f9e0af16494bb49221e
+	a1c9ae865abaa33e0e6d32f33ae0b4a2138708
+	dfd713a6d4e6c818dd5dd086dc636bae82658b
+	62b58f490e279a43893eba394e4dbf04e9bf5f
+	pack-811032a585396f9ef0e657edbf2a97e94f88762a.idx
+	pack-811032a585396f9ef0e657edbf2a97e94f88762a.pack
+	pack-811032a585396f9ef0e657edbf2a97e94f88762a.rev
+	master
+	HEAD
+	master
+	Namespace & Scope.png
+	Знакомство с debugger.png
+	Функции.png
