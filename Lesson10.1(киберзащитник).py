@@ -1,8 +1,15 @@
+# импортируем модуль для регулярных выражений
 import re
 
+
+
+# сканируем текст с помощью регулярных выражения
 def scan_text(text):
+
+    # найденное
     findings = {}
 
+    # паттерны(шаблоны) текстов
     patterns = {
         "Emails": r'\b[\w.-]+@[\w.-]+\.\w+\b',
         "Phone Numbers": r'\+?\d{1,3}[-\s]?\(?\d{2,3}\)?[-\s]?\d{3}[-\s]?\d{4}',
@@ -12,6 +19,7 @@ def scan_text(text):
         "Sensitive Words": r'\b(?:пароль|взлом|admin|root|token|secret)\b',
     }
 
+    # делим каждый шаблон на ключ и значение
     for name, pattern in patterns.items():
         matches = re.findall(pattern, text, flags=re.IGNORECASE)
         if matches:
@@ -20,10 +28,13 @@ def scan_text(text):
     return findings
 
 
+
+# основная функция 
 def main():
     print("Добро пожаловать в Киберзащитник!")
     print("Введите текст для анализа (или оставьте пустым для выхода):")
 
+    # проверяем ввод пользователя 
     while True:
         user_input = input("\nВведите текст:\n> ")
         if not user_input.strip():
@@ -38,7 +49,7 @@ def main():
                 for item in items:
                     print(f"   - {item}")
         else:
-            print("✅ Всё чисто. Нарушений не найдено.")
+            print("Всё чисто. Нарушений не найдено.")
 
 
 if __name__ == "__main__":
